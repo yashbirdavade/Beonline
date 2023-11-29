@@ -1,0 +1,218 @@
+.one{
+    background-image: url('assets/bg1.png');
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    
+}
+.navi{
+    display: flex;
+    margin-left: 100px;
+}
+
+.logo{
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 6px 20px;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    
+}
+.secitem{
+    padding:6px 20px ;
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+.right{
+    padding: 6px 20px;
+    border: 1px solid black;
+    background-color: rgb(220, 220, 54);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 4px;
+    margin-left: 400px;
+}
+.phase1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 100px;
+    margin-top: 90px;
+}
+.buttons{
+    margin-top: 30px;
+}
+.girl{
+    float: left;
+    margin-left: 395px;
+    margin-top: -456px;
+}
+.two{
+    background-image: url('assets/layer21.png');
+    background-repeat: no-repeat;
+    background-image: -webkit-linear-gradient(left, 
+    rgba(0,0,0,0) 0%, 
+    rgba(0,0,0,0) 20%,
+    rgb(247, 245, 245) 60%,
+    rgba(251, 251, 251, 1) 100%
+  ),url('assets/layer21.png');
+    height: 550px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.top{
+    margin-left: 850px;
+    margin-top: -1px;
+    padding-top: 60px;
+}
+.list{
+    margin-left: 840px;
+    margin-top: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.list ul{
+    padding: 10px;
+}
+
+.group img{
+    width: 100%;
+}
+.three{
+   background-color: azure;
+   height: 300px;
+   display: flex;
+}
+.three1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left:100px ;
+    padding-top: 25px;
+}
+.cardgroup{
+    display: flex;
+    margin-left: 210px;
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+.card1 {
+    height: 200px;
+    margin-right: 10px;
+    padding: 5px 20px;
+    background-color:white;
+    align-items: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+.card2 {
+    height: 200px;
+    margin-right: 10px;
+    padding: 5px 20px;
+    background-color: white;
+    align-items: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+.card3 {
+    height: 200px;
+    margin-right: 10px;
+    padding: 5px 20px;
+    background-color: white;
+    align-items: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+.cardgroup :hover{
+    background-color: chartreuse;
+}
+.four{
+    background-color: rgb(157, 215, 48);
+    height: 200px;
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.para{
+    padding: 40px;
+    margin-left: 100px;
+}
+.btn2{
+    padding: 90px;
+}
+.btn2 button{
+    cursor: pointer;
+}
+
+.five{
+    background-image: url('assets/bg3.png');
+    height: 600px;
+    width: 600px;
+    overflow: hidden;
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.boyimg img{
+    height: 600px;
+    width: 900px;
+    margin-top: 100px;
+    
+}
+.content2{
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 5%;
+}
+.oneee{
+    display: flex;
+    /* margin: 20px; */
+    margin-right: 30px;
+    /* padding: 20px; */
+}
+.onepone{
+    margin-right: 90px;
+}
+.twooo{
+    display: flex;
+}
+.twopone{
+    margin-right: 50px;
+}
+
+.six{
+    margin-left: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card21{
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    
+}
+.card211{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 10px;
+}
+.card212{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 10px;
+}
+.card213{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 10px;
+}
+
+.footer{
+    background-color: black;
+    height: 200px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    margin-top: 30px;
+}
+.foot{
+    text-align: center;
+}
+.terms{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 103px;
+    margin-right: 130px;
+    cursor: pointer;
+}
